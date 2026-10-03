@@ -1,0 +1,284 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the Robotics Learning
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Robotics Learning \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-01 13:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../docs/index.md:1
+msgid "Robotics Learning"
+msgstr ""
+
+#: ../../docs/index.md:3
+msgid ""
+"An open, interactive course in robotics, programming, mathematics, and "
+"physics."
+msgstr ""
+
+#: ../../docs/index.md:6
+msgid "Learn through building, measuring, simulating, and explaining."
+msgstr ""
+
+#: ../../docs/index.md:8
+msgid "Learning Paths"
+msgstr ""
+
+#: ../../docs/index.md:10
+msgid "**Beginner:** Build robots and explore how they move."
+msgstr ""
+
+#: ../../docs/index.md:11
+msgid "**Intermediate:** Use sensors, write programs, and analyze data."
+msgstr ""
+
+#: ../../docs/index.md:12
+msgid "**Advanced:** Model motion and design feedback controllers."
+msgstr ""
+
+#: ../../docs/index.md:13
+msgid "**University:** Study dynamics, estimation, optimization, and AI."
+msgstr ""
+
+#: ../../docs/index.md:15
+msgid "Part 1 — Getting Started"
+msgstr ""
+
+#: ../../docs/index.md:17
+msgid "What Is a Robot?"
+msgstr ""
+
+#: ../../docs/index.md:18
+msgid "Tools and Materials"
+msgstr ""
+
+#: ../../docs/index.md:19
+msgid "Safety and Power Supplies"
+msgstr ""
+
+#: ../../docs/index.md:20
+msgid "Your First Robot"
+msgstr ""
+
+#: ../../docs/index.md:22
+msgid "Part 2 — Motion and Mechanisms"
+msgstr ""
+
+#: ../../docs/index.md:24
+msgid "Distance, Speed, and Acceleration"
+msgstr ""
+
+#: ../../docs/index.md:25
+msgid "Rotation and Wheel Motion"
+msgstr ""
+
+#: ../../docs/index.md:26
+msgid "Force, Torque, and Power"
+msgstr ""
+
+#: ../../docs/index.md:27
+msgid "Gears and Pulleys"
+msgstr ""
+
+#: ../../docs/index.md:28
+msgid "Links and Robot Arms"
+msgstr ""
+
+#: ../../docs/index.md:30
+msgid "Part 3 — Electricity and Sensors"
+msgstr ""
+
+#: ../../docs/index.md:32
+msgid "Voltage, Current, and Resistance"
+msgstr ""
+
+#: ../../docs/index.md:33
+msgid "Electric Circuits and Measurement"
+msgstr ""
+
+#: ../../docs/index.md:34
+msgid "DC Motors and Motor Drivers"
+msgstr ""
+
+#: ../../docs/index.md:35
+msgid "Servo Motors"
+msgstr ""
+
+#: ../../docs/index.md:36
+msgid "Encoders"
+msgstr ""
+
+#: ../../docs/index.md:37
+msgid "Distance and Line Sensors"
+msgstr ""
+
+#: ../../docs/index.md:38
+msgid "Inertial Measurement Units"
+msgstr ""
+
+#: ../../docs/index.md:39
+msgid "Cameras and Microphones"
+msgstr ""
+
+#: ../../docs/index.md:41
+msgid "Part 4 — Programming"
+msgstr ""
+
+#: ../../docs/index.md:43
+msgid "Visual Programming"
+msgstr ""
+
+#: ../../docs/index.md:44
+msgid "JavaScript and TypeScript"
+msgstr ""
+
+#: ../../docs/index.md:45
+msgid "Python"
+msgstr ""
+
+#: ../../docs/index.md:46
+msgid "Embedded Programming with C and C++"
+msgstr ""
+
+#: ../../docs/index.md:47
+msgid "Browser Interfaces with HTML and CSS"
+msgstr ""
+
+#: ../../docs/index.md:48
+msgid "Communication with Robots"
+msgstr ""
+
+#: ../../docs/index.md:50
+msgid "Part 5 — Design and Manufacturing"
+msgstr ""
+
+#: ../../docs/index.md:52
+msgid "Measuring and Sketching"
+msgstr ""
+
+#: ../../docs/index.md:53
+msgid "3D CAD"
+msgstr ""
+
+#: ../../docs/index.md:54
+msgid "3D Printing"
+msgstr ""
+
+#: ../../docs/index.md:55
+msgid "Assembly and Mechanical Testing"
+msgstr ""
+
+#: ../../docs/index.md:57
+msgid "Part 6 — Feedback and Autonomous Behavior"
+msgstr ""
+
+#: ../../docs/index.md:59
+msgid "Open-Loop and Closed-Loop Control"
+msgstr ""
+
+#: ../../docs/index.md:60
+msgid "Position and Speed Control"
+msgstr ""
+
+#: ../../docs/index.md:61
+msgid "P, PI, and PID Control"
+msgstr ""
+
+#: ../../docs/index.md:62
+msgid "Sensor Calibration and Filtering"
+msgstr ""
+
+#: ../../docs/index.md:63
+msgid "State Machines"
+msgstr ""
+
+#: ../../docs/index.md:64
+msgid "Computer Vision"
+msgstr ""
+
+#: ../../docs/index.md:65
+msgid "Machine Learning"
+msgstr ""
+
+#: ../../docs/index.md:67
+msgid "Part 7 — Robot Projects"
+msgstr ""
+
+#: ../../docs/index.md:69
+msgid "Motor Test Bench"
+msgstr ""
+
+#: ../../docs/index.md:70
+msgid "Four-Wheel Vehicle"
+msgstr ""
+
+#: ../../docs/index.md:71
+msgid "Differential-Drive Robot"
+msgstr ""
+
+#: ../../docs/index.md:72
+msgid "Robot Arm"
+msgstr ""
+
+#: ../../docs/index.md:73
+msgid "Inverted Pendulum"
+msgstr ""
+
+#: ../../docs/index.md:74
+msgid "Communication Robot"
+msgstr ""
+
+#: ../../docs/index.md:76
+msgid "Part 8 — Further Learning"
+msgstr ""
+
+#: ../../docs/index.md:78
+msgid "Mathematics for Robotics"
+msgstr ""
+
+#: ../../docs/index.md:79
+msgid "Newtonian and Analytical Mechanics"
+msgstr ""
+
+#: ../../docs/index.md:80
+msgid "From Circuits to Electromagnetism"
+msgstr ""
+
+#: ../../docs/index.md:81
+msgid "Paths to Relativity, Quantum Mechanics, and Particle Physics"
+msgstr ""
+
+#: ../../docs/index.md:83
+msgid "Teaching Resources"
+msgstr ""
+
+#: ../../docs/index.md:85
+msgid "Lesson Plans"
+msgstr ""
+
+#: ../../docs/index.md:86
+msgid "Worksheets and Experiments"
+msgstr ""
+
+#: ../../docs/index.md:87
+msgid "Assessment and Project Reports"
+msgstr ""
+
+#: ../../docs/index.md:88
+msgid "Glossary"
+msgstr ""
+

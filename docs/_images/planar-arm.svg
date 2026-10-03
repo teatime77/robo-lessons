@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 350" role="img" aria-labelledby="title description">
+  <title id="title">2軸平面アームの座標</title>
+  <desc id="description">原点から第1リンク、第2リンクの順に先端へつながる。第1関節角はx軸から、第2関節角は第1リンクの延長から測る。</desc>
+  <rect x="0" y="0" width="560" height="350" fill="white" />
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#334155" />
+    </marker>
+  </defs>
+  <line x1="70" y1="260" x2="450" y2="260" stroke="#334155" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="70" y1="260" x2="70" y2="40" stroke="#334155" stroke-width="2" marker-end="url(#arrow)" />
+  <path d="M 70 260 L 230 200 L 350 70" fill="none" stroke="#2563eb" stroke-width="8" />
+  <line x1="230" y1="200" x2="350" y2="155" stroke="#334155" stroke-width="2" stroke-dasharray="6 5" />
+  <circle cx="70" cy="260" r="7" fill="#0f172a" />
+  <circle cx="230" cy="200" r="7" fill="#0f172a" />
+  <circle cx="350" cy="70" r="7" fill="#0f172a" />
+  <path d="M 125 260 A 55 55 0 0 0 121.5 240.7" fill="none" stroke="#c2410c" stroke-width="2" />
+  <path d="M 281.5 180.7 A 55 55 0 0 0 267.3 159.6" fill="none" stroke="#c2410c" stroke-width="2" />
+  <text x="35" y="285" fill="#0f172a" font-family="sans-serif" font-size="18">原点</text>
+  <text x="458" y="265" fill="#0f172a" font-family="sans-serif" font-size="18">x</text>
+  <text x="65" y="30" fill="#0f172a" font-family="sans-serif" font-size="18">y</text>
+  <text x="132" y="253" fill="#0f172a" font-family="sans-serif" font-size="18">θ₁</text>
+  <text x="284" y="157" fill="#0f172a" font-family="sans-serif" font-size="18">θ₂</text>
+  <text x="130" y="211" fill="#0f172a" font-family="sans-serif" font-size="18">長さ l₁</text>
+  <text x="310" y="140" fill="#0f172a" font-family="sans-serif" font-size="18">長さ l₂</text>
+  <text x="363" y="72" fill="#0f172a" font-family="sans-serif" font-size="18">先端 (x, y)</text>
+  <text x="60" y="323" fill="#0f172a" font-family="sans-serif" font-size="18">θ₂ は第1リンクに対する相対角</text>
+</svg>

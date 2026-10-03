@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
+*.py[cod]
 *$py.class
 
 # C extensions
@@ -53,7 +54,7 @@ cover/
 
 # Translations
 *.mo
-*.pot
+# .po / .pot は翻訳の編集元として管理する。
 
 # Django stuff:
 *.log
@@ -151,6 +152,7 @@ activemq-data/
 .env
 .envrc
 .venv
+.venv-*/
 env/
 venv/
 ENV/
@@ -216,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated documentation
+_build/
+
+# Future TypeScript applications
+node_modules/
+*.tsbuildinfo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local scratch files (既存の個人メモは削除しない)
+/tmp/

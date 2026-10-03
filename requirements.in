@@ -1,0 +1,8 @@
+# 教材ビルドの直接依存。Python 3.12 で検証。
+# requirements.txt は間接依存を含む既存の固定版記録。
+# 更新手順は development/README.md を参照。
+Sphinx==9.1.0
+myst-parser==5.1.0
+furo==2025.12.19
+# 将来の翻訳カタログ管理用。機械翻訳エンジンではない。
+sphinx-intl==2.4.0

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 300" role="img" aria-labelledby="cycle-title cycle-description">
+  <title id="cycle-title">実験と改良を繰り返す学習</title>
+  <desc id="cycle-description">問い、予想、工作・プログラミング、実験・計測、整理・考察、改良の順に進み、予想に戻ります。</desc>
+  <rect x="0" y="0" width="780" height="300" fill="white" />
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#334155" />
+    </marker>
+  </defs>
+  <path d="M 250 75 H 280" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)" />
+  <path d="M 500 75 H 530" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)" />
+  <path d="M 640 115 V 175" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)" />
+  <path d="M 530 215 H 500" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)" />
+  <path d="M 280 215 H 250" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)" />
+  <path d="M 140 175 V 145 H 390 V 115" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)" />
+  <rect x="30" y="35" width="220" height="80" rx="12" fill="#eff6ff" stroke="#2563eb" />
+  <text x="140" y="81" fill="#0f172a" text-anchor="middle" font-size="18" font-family="sans-serif">問い</text>
+  <rect x="280" y="35" width="220" height="80" rx="12" fill="#eff6ff" stroke="#2563eb" />
+  <text x="390" y="81" fill="#0f172a" text-anchor="middle" font-size="18" font-family="sans-serif">予想</text>
+  <rect x="530" y="35" width="220" height="80" rx="12" fill="#eff6ff" stroke="#2563eb" />
+  <text x="640" y="81" fill="#0f172a" text-anchor="middle" font-size="18" font-family="sans-serif">工作・プログラミング</text>
+  <rect x="530" y="175" width="220" height="80" rx="12" fill="#eff6ff" stroke="#2563eb" />
+  <text x="640" y="221" fill="#0f172a" text-anchor="middle" font-size="18" font-family="sans-serif">実験・計測</text>
+  <rect x="280" y="175" width="220" height="80" rx="12" fill="#eff6ff" stroke="#2563eb" />
+  <text x="390" y="221" fill="#0f172a" text-anchor="middle" font-size="18" font-family="sans-serif">整理・考察</text>
+  <rect x="30" y="175" width="220" height="80" rx="12" fill="#eff6ff" stroke="#2563eb" />
+  <text x="140" y="221" fill="#0f172a" text-anchor="middle" font-size="18" font-family="sans-serif">改良</text>
+</svg>
